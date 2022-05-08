@@ -8,15 +8,17 @@ Hi, I'm KaLe!
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Freelancer;FrontEnd+Engineer;SRRP's+girlfriend;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://github.com/mochamadhaikal/mochamadhaikal/blob/main/image.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://github.com/mochamadhaikal/mochamadhaikal/blob/main/image.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="280" />
 <hr>
 
 ```
+
 💻 I'm a self taught Frontend Engineer 
 🌱 Learning about Frontend Web Development and Web Design
 🌟 Main languages: JavaScript, PHP
 🚩 Interested in Frontend Application development
 🎵 Love lofi, jazz and soft music
+
 ```
 <hr>
 
