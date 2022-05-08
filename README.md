@@ -1,6 +1,7 @@
 <h1 align="center">
 Hi, I'm KaLe!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+  <img src="https://gpvc.arturio.dev/mochamadhaikal" alt="Profile views" align='right'/> <a href="https://github.com/mochamadhaikal/mochamadhaikal/"> </a> 
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
