@@ -14,7 +14,7 @@ Hi, I'm KaLe!
 <hr>
 
 ```
-💻  I'm a self taught Frontend Engineer 
+💻 I'm a self taught Frontend Engineer 
 🌱 Learning about Frontend Web Development and Web Design
 🌟 Main languages: JavaScript, PHP
 🚩 Interested in Frontend Application development
