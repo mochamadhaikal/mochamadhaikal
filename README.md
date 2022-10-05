@@ -6,7 +6,7 @@ Hi, I'm KaLe!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Freelancer;FrontEnd+Engineer;SRRP's+girlfriend&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Freelancer;FrontEnd+Engineer;SRRP's+Honey&center=true&width=380&height=45"></a>
 </p>
 
 <img align="left" src="https://github.com/mochamadhaikal/mochamadhaikal/blob/main/image.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="280" />
