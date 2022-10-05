@@ -6,7 +6,7 @@ Hi, I'm KaLe!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Freelancer;FrontEnd+Engineer;SRRP's+girlfriend;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Freelancer;FrontEnd+Engineer;SRRP's+girlfriend&center=true&width=380&height=45"></a>
 </p>
 
 <img align="left" src="https://github.com/mochamadhaikal/mochamadhaikal/blob/main/image.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="280" />
@@ -26,7 +26,6 @@ Hi, I'm KaLe!
 ## Connect with me. :smiley:
 
 <p>
-<a href="https://github.com/mochamadhaikal"><img src="https://img.shields.io/badge/-mochamadhaikal-black?logo=github&style=flat-square"/></a>
 <a href="https://www.linkedin.com/in/mochamad-haikal-011460193/"><img src="https://img.shields.io/badge/-Mochamad_Haikal-blue?logo=linkedin&style=flat-square"></a>
 <a href="https://instagram.com/muhhaykale/"><img src="https://img.shields.io/badge/-muhhaykale-pink?logo=instagram&style=flat-square"/></a>
 <a href="mailto:mhaikal1006@gmail.com"><img src="https://img.shields.io/badge/-mhaikal1006@gmail.com-black?logo=gmail&style=flat-square"/></a>
@@ -48,8 +47,10 @@ Hi, I'm KaLe!
 
 <p>
     <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></a>
+    <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Nextjs"></a>
     <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>
-    <a href="https://expressjs.com/" target="_blank"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJs"/></a> 
-    <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a> 
+    <a href="https://codeigniter.com/" target="_blank"><img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white" alt="CodeIgniter"></a>
+    <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a>
+    <a href="https://bulma.io/" target="_blank"><img src="https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white" alt="Bulma"></a> 
     <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"></a>
 </p>
