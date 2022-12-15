@@ -26,13 +26,11 @@ Hi, I'm KaLe!
 ## Connect with me. :smiley:
 
 <p>
-<a href="https://www.linkedin.com/in/mochamad-haikal-011460193/"><img src="https://img.shields.io/badge/-Mochamad_Haikal-blue?logo=linkedin&style=flat-square"></a>
+<a href="https://www.linkedin.com/in/mochamadhaikal/"><img src="https://img.shields.io/badge/-Mochamad_Haikal-blue?logo=linkedin&style=flat-square"></a>
 <a href="https://instagram.com/muhhaykale/"><img src="https://img.shields.io/badge/-muhhaykale-pink?logo=instagram&style=flat-square"/></a>
 <a href="mailto:mhaikal1006@gmail.com"><img src="https://img.shields.io/badge/-mhaikal1006@gmail.com-black?logo=gmail&style=flat-square"/></a>
 <!-- <a href="https://twitter.com/muhhaykale"><img src="https://img.shields.io/badge/-muhhaykale-blue?logo=twitter&style=flat-square"/></a> -->
 </p>
-
-## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming Languages
 
