@@ -1,24 +1,23 @@
 <h1 align="center">
 Hi, I'm KaLe!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-  <img src="https://gpvc.arturio.dev/mochamadhaikal" alt="Profile views" align='right'/> <a href="https://github.com/mochamadhaikal/mochamadhaikal/"> </a> 
+  <img src="https://komarev.com/ghpvc/?username=mochamadhaikal&color=ff69b4" alt="Profile views" align='right'/>
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Freelancer;FrontEnd+Engineer;SRRP's+Honey&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Freelancer;Software+Engineer;SRRP's+Honey&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://github.com/mochamadhaikal/mochamadhaikal/blob/main/image.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="280" />
+<img align="left" src="https://github.com/mochamadhaikal/mochamadhaikal/blob/main/image.jpg" alt="Image Preview" width="280" />
 <hr>
 
 ```
 
-💻 I'm a self taught Frontend Engineer 
-🌱 Learning about Frontend Web Development and Web Design
+💻 I'm a self taught Software Engineer 
+🌱 Learning about Software Web Development and Web Design
 🌟 Main languages: JavaScript, PHP
 🚩 Interested in Frontend Application development
-🎵 Love lofi, jazz and soft music
 
 ```
 <hr>
