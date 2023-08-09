@@ -9,17 +9,18 @@ Hi, I'm KaLe!
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Freelancer;Software+Engineer;SRRP's+Honey&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://github.com/mochamadhaikal/mochamadhaikal/blob/main/image.jpg" alt="Image Preview" width="280" />
+<img align="left" src="https://github.com/mochamadhaikal/mochamadhaikal/blob/main/image.jpeg" alt="Image Preview" width="280" />
 <hr>
 
 ```
 
-💻 I'm a self taught Software Engineer 
+💻 I'm a self taught Software Engineer
 🌱 Learning about Software Web Development and Web Design
 🌟 Main languages: JavaScript, PHP
 🚩 Interested in Frontend Application development
 
 ```
+
 <hr>
 
 ## Connect with me. :smiley:
@@ -45,6 +46,7 @@ Hi, I'm KaLe!
 <p>
     <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></a>
     <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Nextjs"></a>
+    <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Expressjs-black?style=for-the-badge&logo=express&logoColor=white" alt="Expressjs"></a>
     <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>
     <a href="https://codeigniter.com/" target="_blank"><img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white" alt="CodeIgniter"></a>
     <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a>
